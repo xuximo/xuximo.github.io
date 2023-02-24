@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>☁ 忘记</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-02-24T06:59:59.540Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>汐陌</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://example.com/2023/02/24/test/"/>
+    <id>http://example.com/2023/02/24/test/</id>
+    <published>2023-02-24T06:50:03.000Z</published>
+    <updated>2023-02-24T06:59:59.540Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/../images/test/1.png" alt="1"></p><p><img src="/../images/test/2.png" alt="2"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/../images/test/1.png&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/../images/test/2.png&quot; alt=&quot;2&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>游戏截图</title>
+    <link href="http://example.com/2023/02/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://example.com/2023/02/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2023-02-23T07:00:00.000Z</published>
+    <updated>2023-02-23T08:36:58.378Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://ltly.oss-cn-beijing.aliyuncs.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_20230210_175426.png" alt="大运摩托"></p><h2 id="大运摩托-毫无畏惧"><a href="#大运摩托-毫无畏惧" class="headerlink" title="大运摩托 毫无畏惧"></a>大运摩托 毫无畏惧</h2><p><img src="https://ltly.oss-cn-beijing.aliyuncs.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_20230210_175504.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://ltly.oss-cn-beijing.aliyuncs.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_20230210_175426.png&quot; alt=&quot;大运摩托&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;大运摩托</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
